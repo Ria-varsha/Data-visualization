@@ -1,0 +1,187 @@
+Continent,Country,City,Arrivals_2019,Arrivals_2022,Arrivals_2023,ISO,Is_Continent,pct_growth
+Europe,France,France_City13,61.3,62.7,74.5,FRA,False,21.5
+Europe,Spain,Spain_City8,45.2,41.7,43.5,SPA,False,-3.8
+Europe,Italy,Italy_City7,10.4,7.7,10.3,ITA,False,-1.0
+Europe,Germany,Germany_City8,55.2,48.8,69.3,GER,False,25.5
+Europe,UK,UK_City14,37.1,34.3,34.2,UK,False,-7.8
+Asia,India,India_City6,78.9,81.7,101.6,IND,False,28.8
+Asia,Japan,Japan_City18,48.8,48.3,37.6,JAP,False,-23.0
+Asia,China,China_City1,60.3,52.4,69.7,CHI,False,15.6
+Asia,Thailand,Thailand_City11,44.4,32.5,51.7,THA,False,16.4
+Asia,Singapore,Singapore_City3,17.8,13.6,14.1,SIN,False,-20.8
+Africa,Kenya,Kenya_City9,63.6,68.2,70.5,KEN,False,10.8
+Africa,Morocco,Morocco_City2,71.3,44.9,78.4,MOR,False,10.0
+Africa,Egypt,Egypt_City12,25.0,16.6,22.2,EGY,False,-11.2
+Africa,Nigeria,Nigeria_City13,59.2,48.5,76.5,NIG,False,29.2
+Africa,South Africa,South Africa_City5,67.0,61.5,86.9,SOU,False,29.7
+Americas,USA,USA_City9,44.4,37.2,47.7,USA,False,7.4
+Americas,Canada,Canada_City16,15.5,14.4,12.1,CAN,False,-21.9
+Americas,Brazil,Brazil_City10,95.2,88.7,67.4,BRA,False,-29.2
+Americas,Mexico,Mexico_City18,84.6,54.8,108.8,MEX,False,28.6
+Americas,Argentina,Argentina_City3,53.4,33.5,51.8,ARG,False,-3.0
+Oceania,Australia,Australia_City1,47.0,51.2,43.0,AUS,False,-8.5
+Oceania,New Zealand,New Zealand_City3,70.4,73.2,88.1,NEW,False,25.1
+Oceania,Fiji,Fiji_City4,70.8,62.5,60.8,FIJ,False,-14.1
+Oceania,PNG,PNG_City15,13.9,12.3,17.5,PNG,False,25.9
+Oceania,Samoa,Samoa_City12,5.9,6.0,6.4,SAM,False,8.5
+Middle East,Saudi Arabia,Saudi Arabia_City1,30.1,24.0,31.1,SAU,False,3.3
+Middle East,UAE,UAE_City9,40.1,27.0,41.8,UAE,False,4.2
+Middle East,Qatar,Qatar_City3,32.4,26.5,37.4,QAT,False,15.4
+Middle East,Oman,Oman_City9,90.1,82.8,111.3,OMA,False,23.5
+Middle East,Kuwait,Kuwait_City15,47.7,52.0,36.7,KUW,False,-23.1
+Europe,France,France_City14,44.1,41.4,37.5,FRA,False,-15.0
+Europe,Spain,Spain_City15,70.8,68.2,70.9,SPA,False,0.1
+Europe,Italy,Italy_City2,42.5,38.6,41.9,ITA,False,-1.4
+Europe,Germany,Germany_City7,33.6,31.3,29.4,GER,False,-12.5
+Europe,UK,UK_City16,76.2,79.2,58.0,UK,False,-23.9
+Asia,India,India_City7,59.1,52.9,61.7,IND,False,4.4
+Asia,Japan,Japan_City13,97.1,73.8,80.9,JAP,False,-16.7
+Asia,China,China_City4,39.9,32.6,49.3,CHI,False,23.6
+Asia,Thailand,Thailand_City6,71.9,46.7,90.0,THA,False,25.2
+Asia,Singapore,Singapore_City11,49.6,50.6,61.6,SIN,False,24.2
+Africa,Kenya,Kenya_City9,20.4,18.5,15.8,KEN,False,-22.5
+Africa,Morocco,Morocco_City15,81.7,72.3,77.2,MOR,False,-5.5
+Africa,Egypt,Egypt_City10,98.3,77.3,93.6,EGY,False,-4.8
+Africa,Nigeria,Nigeria_City19,87.3,95.0,105.9,NIG,False,21.3
+Africa,South Africa,South Africa_City14,77.7,83.3,89.4,SOU,False,15.1
+Americas,USA,USA_City3,54.5,34.2,44.7,USA,False,-18.0
+Americas,Canada,Canada_City5,21.2,17.6,26.0,CAN,False,22.6
+Americas,Brazil,Brazil_City17,62.8,56.4,73.5,BRA,False,17.0
+Americas,Mexico,Mexico_City4,64.0,56.9,53.9,MEX,False,-15.8
+Americas,Argentina,Argentina_City4,63.3,54.9,66.7,ARG,False,5.4
+Oceania,Australia,Australia_City18,96.6,84.7,79.9,AUS,False,-17.3
+Oceania,New Zealand,New Zealand_City3,22.7,24.3,26.0,NEW,False,14.5
+Oceania,Fiji,Fiji_City3,97.2,91.4,73.0,FIJ,False,-24.9
+Oceania,PNG,PNG_City18,34.6,32.8,32.1,PNG,False,-7.2
+Oceania,Samoa,Samoa_City18,56.5,58.0,64.8,SAM,False,14.7
+Middle East,Saudi Arabia,Saudi Arabia_City19,48.1,41.8,59.5,SAU,False,23.7
+Middle East,UAE,UAE_City10,49.6,41.1,61.7,UAE,False,24.4
+Middle East,Qatar,Qatar_City5,7.0,6.9,6.2,QAT,False,-11.4
+Middle East,Oman,Oman_City9,66.3,50.5,67.1,OMA,False,1.2
+Middle East,Kuwait,Kuwait_City1,87.9,64.8,103.6,KUW,False,17.9
+Europe,France,France_City18,69.6,57.6,68.9,FRA,False,-1.0
+Europe,Spain,Spain_City5,95.0,91.7,81.0,SPA,False,-14.7
+Europe,Italy,Italy_City19,54.2,33.2,44.7,ITA,False,-17.5
+Europe,Germany,Germany_City9,74.4,68.7,61.7,GER,False,-17.1
+Europe,UK,UK_City16,60.7,62.6,46.8,UK,False,-22.9
+Asia,India,India_City11,17.5,16.8,16.4,IND,False,-6.3
+Asia,Japan,Japan_City10,84.8,59.6,67.8,JAP,False,-20.0
+Asia,China,China_City12,73.6,45.3,84.5,CHI,False,14.8
+Asia,Thailand,Thailand_City2,90.9,58.3,93.7,THA,False,3.1
+Asia,Singapore,Singapore_City17,9.3,6.6,8.1,SIN,False,-12.9
+Africa,Kenya,Kenya_City10,14.5,8.8,18.2,KEN,False,25.5
+Africa,Morocco,Morocco_City9,84.1,91.9,94.4,MOR,False,12.2
+Africa,Egypt,Egypt_City16,53.7,47.8,63.0,EGY,False,17.3
+Africa,Nigeria,Nigeria_City3,96.3,68.9,122.3,NIG,False,27.0
+Africa,South Africa,South Africa_City5,80.9,74.0,99.1,SOU,False,22.5
+Americas,USA,USA_City2,23.5,23.2,30.2,USA,False,28.5
+Americas,Canada,Canada_City8,52.3,48.1,48.2,CAN,False,-7.8
+Americas,Brazil,Brazil_City5,83.1,57.7,83.7,BRA,False,0.7
+Americas,Mexico,Mexico_City11,98.2,78.9,102.3,MEX,False,4.2
+Americas,Argentina,Argentina_City16,96.3,101.4,112.1,ARG,False,16.4
+Oceania,Australia,Australia_City7,43.7,31.3,34.1,AUS,False,-22.0
+Oceania,New Zealand,New Zealand_City13,95.5,58.0,97.4,NEW,False,2.0
+Oceania,Fiji,Fiji_City4,19.0,12.2,14.3,FIJ,False,-24.7
+Oceania,PNG,PNG_City8,82.0,66.9,94.4,PNG,False,15.1
+Oceania,Samoa,Samoa_City4,86.8,83.6,74.8,SAM,False,-13.8
+Middle East,Saudi Arabia,Saudi Arabia_City5,61.2,51.3,60.8,SAU,False,-0.7
+Middle East,UAE,UAE_City6,54.8,45.0,66.4,UAE,False,21.2
+Middle East,Qatar,Qatar_City8,83.6,71.5,62.9,QAT,False,-24.8
+Middle East,Oman,Oman_City8,24.6,25.2,27.3,OMA,False,11.0
+Middle East,Kuwait,Kuwait_City10,11.6,7.0,14.3,KUW,False,23.3
+Europe,France,France_City12,23.7,19.7,17.2,FRA,False,-27.4
+Europe,Spain,Spain_City11,51.6,43.1,63.4,SPA,False,22.9
+Europe,Italy,Italy_City15,44.4,30.5,43.7,ITA,False,-1.6
+Europe,Germany,Germany_City19,57.9,39.4,45.5,GER,False,-21.4
+Europe,UK,UK_City18,31.4,20.9,29.4,UK,False,-6.4
+Asia,India,India_City5,22.8,24.0,23.4,IND,False,2.6
+Asia,Japan,Japan_City14,88.8,73.6,100.7,JAP,False,13.4
+Asia,China,China_City13,70.6,67.1,63.3,CHI,False,-10.3
+Asia,Thailand,Thailand_City17,7.6,7.3,8.8,THA,False,15.8
+Asia,Singapore,Singapore_City11,80.7,87.1,78.7,SIN,False,-2.5
+Africa,Kenya,Kenya_City16,58.0,37.6,62.2,KEN,False,7.2
+Africa,Morocco,Morocco_City2,20.0,21.9,15.0,MOR,False,-25.0
+Africa,Egypt,Egypt_City5,42.9,27.1,40.9,EGY,False,-4.7
+Africa,Nigeria,Nigeria_City19,74.1,72.0,65.5,NIG,False,-11.6
+Africa,South Africa,South Africa_City9,38.8,30.2,27.5,SOU,False,-29.1
+Americas,USA,USA_City2,55.9,52.6,59.6,USA,False,6.6
+Americas,Canada,Canada_City15,13.7,8.6,10.3,CAN,False,-24.8
+Americas,Brazil,Brazil_City7,63.4,39.1,45.0,BRA,False,-29.0
+Americas,Mexico,Mexico_City7,66.7,58.2,48.0,MEX,False,-28.0
+Americas,Argentina,Argentina_City14,78.3,61.7,77.9,ARG,False,-0.5
+Oceania,Australia,Australia_City9,97.6,106.9,92.3,AUS,False,-5.4
+Oceania,New Zealand,New Zealand_City17,84.0,84.3,91.1,NEW,False,8.5
+Oceania,Fiji,Fiji_City6,11.2,11.1,9.8,FIJ,False,-12.5
+Oceania,PNG,PNG_City15,69.9,55.2,75.5,PNG,False,8.0
+Oceania,Samoa,Samoa_City11,86.1,73.1,82.4,SAM,False,-4.3
+Middle East,Saudi Arabia,Saudi Arabia_City4,72.1,58.2,66.1,SAU,False,-8.3
+Middle East,UAE,UAE_City18,39.5,31.6,45.2,UAE,False,14.4
+Middle East,Qatar,Qatar_City9,38.1,38.4,49.2,QAT,False,29.1
+Middle East,Oman,Oman_City19,71.2,74.7,55.0,OMA,False,-22.8
+Middle East,Kuwait,Kuwait_City15,28.7,18.7,36.5,KUW,False,27.2
+Europe,France,France_City13,39.0,30.9,48.8,FRA,False,25.1
+Europe,Spain,Spain_City15,17.6,13.9,15.7,SPA,False,-10.8
+Europe,Italy,Italy_City13,27.6,18.9,26.8,ITA,False,-2.9
+Europe,Germany,Germany_City17,89.2,69.2,102.0,GER,False,14.3
+Europe,UK,UK_City19,94.5,86.7,115.3,UK,False,22.0
+Asia,India,India_City4,76.3,72.5,97.7,IND,False,28.0
+Asia,Japan,Japan_City17,72.3,69.0,77.1,JAP,False,6.6
+Asia,China,China_City17,19.5,15.8,15.2,CHI,False,-22.1
+Asia,Thailand,Thailand_City10,14.5,15.7,10.8,THA,False,-25.5
+Asia,Singapore,Singapore_City10,57.0,42.0,60.2,SIN,False,5.6
+Africa,Kenya,Kenya_City1,25.5,22.7,32.8,KEN,False,28.6
+Africa,Morocco,Morocco_City19,97.2,59.6,119.8,MOR,False,23.3
+Africa,Egypt,Egypt_City8,31.4,32.9,22.5,EGY,False,-28.3
+Africa,Nigeria,Nigeria_City13,36.7,39.0,44.7,NIG,False,21.8
+Africa,South Africa,South Africa_City7,90.6,69.3,111.8,SOU,False,23.4
+Americas,USA,USA_City19,38.1,37.0,42.2,USA,False,10.8
+Americas,Canada,Canada_City5,94.7,99.1,104.8,CAN,False,10.7
+Americas,Brazil,Brazil_City2,57.1,42.0,45.0,BRA,False,-21.2
+Americas,Mexico,Mexico_City7,7.9,7.5,5.6,MEX,False,-29.1
+Americas,Argentina,Argentina_City19,58.0,45.3,58.1,ARG,False,0.2
+Oceania,Australia,Australia_City9,45.4,47.8,32.0,AUS,False,-29.5
+Oceania,New Zealand,New Zealand_City16,24.9,16.4,26.1,NEW,False,4.8
+Oceania,Fiji,Fiji_City19,56.2,54.1,52.5,FIJ,False,-6.6
+Oceania,PNG,PNG_City7,48.2,52.3,57.9,PNG,False,20.1
+Oceania,Samoa,Samoa_City16,6.6,6.3,7.8,SAM,False,18.2
+Middle East,Saudi Arabia,Saudi Arabia_City1,66.6,40.9,83.4,SAU,False,25.2
+Middle East,UAE,UAE_City1,99.2,78.5,117.5,UAE,False,18.4
+Middle East,Qatar,Qatar_City5,26.6,21.4,28.6,QAT,False,7.5
+Middle East,Oman,Oman_City18,63.8,42.5,82.2,OMA,False,28.8
+Middle East,Kuwait,Kuwait_City1,52.8,56.0,54.1,KUW,False,2.5
+Europe,France,France_City4,69.7,51.8,50.6,FRA,False,-27.4
+Europe,Spain,Spain_City17,42.0,45.2,37.0,SPA,False,-11.9
+Europe,Italy,Italy_City16,60.1,54.0,50.7,ITA,False,-15.6
+Europe,Germany,Germany_City8,20.2,18.8,19.5,GER,False,-3.5
+Europe,UK,UK_City3,71.2,51.5,51.5,UK,False,-27.7
+Asia,India,India_City19,54.2,45.4,43.9,IND,False,-19.0
+Asia,Japan,Japan_City3,90.3,84.5,91.9,JAP,False,1.8
+Asia,China,China_City17,35.5,21.4,37.6,CHI,False,5.9
+Asia,Thailand,Thailand_City12,40.9,44.6,32.9,THA,False,-19.6
+Asia,Singapore,Singapore_City2,32.8,23.0,41.2,SIN,False,25.6
+Africa,Kenya,Kenya_City9,50.4,37.4,42.5,KEN,False,-15.7
+Africa,Morocco,Morocco_City11,46.1,49.1,48.6,MOR,False,5.4
+Africa,Egypt,Egypt_City10,17.7,11.5,16.0,EGY,False,-9.6
+Africa,Nigeria,Nigeria_City11,83.1,66.6,60.0,NIG,False,-27.8
+Africa,South Africa,South Africa_City17,73.5,67.5,87.3,SOU,False,18.8
+Americas,USA,USA_City9,58.6,63.2,45.0,USA,False,-23.2
+Americas,Canada,Canada_City7,19.0,12.0,16.1,CAN,False,-15.3
+Americas,Brazil,Brazil_City17,29.8,30.9,24.1,BRA,False,-19.1
+Americas,Mexico,Mexico_City16,16.1,10.5,17.0,MEX,False,5.6
+Americas,Argentina,Argentina_City17,10.0,9.0,12.4,ARG,False,24.0
+Oceania,Australia,Australia_City3,77.7,54.0,96.3,AUS,False,23.9
+Oceania,New Zealand,New Zealand_City2,14.2,12.1,14.9,NEW,False,4.9
+Oceania,Fiji,Fiji_City4,14.2,15.5,17.6,FIJ,False,23.9
+Oceania,PNG,PNG_City5,50.0,42.0,50.3,PNG,False,0.6
+Oceania,Samoa,Samoa_City14,45.3,46.6,34.9,SAM,False,-23.0
+Middle East,Saudi Arabia,Saudi Arabia_City16,48.5,34.8,35.7,SAU,False,-26.4
+Middle East,UAE,UAE_City18,37.7,36.1,40.8,UAE,False,8.2
+Middle East,Qatar,Qatar_City5,7.1,5.6,7.8,QAT,False,9.9
+Middle East,Oman,Oman_City17,91.8,85.9,82.1,OMA,False,-10.6
+Middle East,Kuwait,Kuwait_City7,15.5,12.4,14.6,KUW,False,-5.8
+Europe,France,France_City4,58.3,46.6,59.4,FRA,False,1.9
+Europe,Spain,Spain_City8,68.2,41.9,84.1,SPA,False,23.3
+Europe,Italy,Italy_City8,87.4,53.7,89.2,ITA,False,2.1
+Europe,Germany,Germany_City18,96.0,95.8,124.3,GER,False,29.5
+Europe,UK,UK_City5,78.2,75.1,84.5,UK,False,8.1
+Asia,India,India_City12,12.7,8.2,10.6,IND,False,-16.5
